@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Api",
+    "\\app\\Models",
+    "\\database",
+    "\\database\\seeders",
+    "\\public",
+    "\\public\\assets",
+    "\\public\\assets\\js"
+  ],
+  "SelectedNode": "\\public\\assets\\js\\admin.js",
+  "PreviewInSolutionExplorer": false
+}
